@@ -1,12 +1,15 @@
 # Welcome to your Expo app 👋
+https://docs.expo.dev/
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+https://www.nativewind.dev/v4/getting-started/expo-router
+
 
 ## Get started
 
 1. Install dependencies
 
-   ```bash
+   ```terminal
    npm install
    ```
 
@@ -14,6 +17,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
     npx expo start
+    npm run start
    ```
 
 In the output, you'll find options to open the app in a
