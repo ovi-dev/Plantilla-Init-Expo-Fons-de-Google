@@ -10,6 +10,16 @@ module.exports = {
   theme: {
     extend: {
 
+      colors: {
+        primary: '#49129C',
+        segundario: {
+          DEFAULT: '#B40086',
+          100: '#C51297',
+          200: '#8331266',
+        },
+        tercero: '#EF2967'
+      },
+
       fontFamily: {
         'trabajo-negro': ['WorkSans-Black', 'sans-serif'],
         'trabajo-clara': ['WorkSans-Light', 'sans-serif'],
